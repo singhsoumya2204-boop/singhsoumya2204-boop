@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 Hi, I'm Soumya Singh
 
 ### 🚀 Data Analyst | Power BI | SQL | AI-Augmented Analytics
